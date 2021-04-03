@@ -1,0 +1,19 @@
+{
+  "name": "crmgraphql",
+  "version": "1.0.0",
+  "description": "Using GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanDev-47/crmgraphql.git"
+  },
+  "author": "Juan Pablo Arenas JuanDev-47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanDev-47/crmgraphql/issues"
+  },
+  "homepage": "https://github.com/juanDev-47/crmgraphql#readme"
+}
